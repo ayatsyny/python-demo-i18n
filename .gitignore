@@ -1,0 +1,12 @@
+*.log
+*.mo
+*.pyc
+.cache/
+.coverage
+.idea/
+.vscode/
+build/
+dist/
+docs/build/
+venv/
+wheelhouse/
